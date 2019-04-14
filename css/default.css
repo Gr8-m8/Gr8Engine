@@ -1,0 +1,15 @@
+﻿body {
+    background-color:black;
+}
+
+.gameWindow{
+    background-color:white;
+    left:0px;
+    top:0px;
+    position:absolute;
+}
+
+.resources{
+    overflow:hidden;
+    height:0px;
+}
