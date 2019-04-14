@@ -165,9 +165,9 @@ window.addEventListener("mouseup", (event) => {
 
 var CursorClass = new Cursor();
 
-//
-//	GAMEOBJECTCONTROLLER
-//
+//							//
+//	GAMEOBJECTCONTROLLER	//
+//							//
 
 class GameObjectController {
 	constructor() {
